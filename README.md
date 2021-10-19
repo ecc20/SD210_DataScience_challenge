@@ -1,6 +1,6 @@
 # Data Science challenge
 
-In this two-member Machine Learning project, we worked on comparing pairs of images using scikit-learn and tensorflow.
+In this two-member Machine Learning project, we worked on comparing pairs of images using scikit-learn, tensorflow and xgboost.
 
 First, we did some analysis and pre-processing on the dataset, comprising millions of samples.
 We tested different algorithms such as Perceptron, SVM, Neural Networks, ensemble methods such as Random Forest and XGBoosting. We also tried to use data augmentation.
